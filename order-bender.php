@@ -9,6 +9,7 @@ Author URI: http://mtekk.us/
 License: GPL2
 TextDomain: mtekk-order-bender
 DomainPath: /languages/
+Edited for fucntionality with WP Category Permalink by @jordymeow
 */
 /*  Copyright 2012-2016  John Havlik  (email : john.havlik@mtekk.us)
 
